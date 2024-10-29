@@ -4,7 +4,7 @@ title: "Mahsa Masoudi"
 name: "A Free Job Market Profile in Jekyll"
 email: "masoudi.mahsaa@gmail.com"
 url: "https://mahsamasoudi.github.io/"
-baseurl: "/mahsa-for-Job-Market"
+baseurl: "/Mahsa-Masoudi-Profile"
 repository: "mahsamasoudi/Mahsa-Masoudi-Profile"
 header:
   image: /assets/images/banner-husky.jpg
