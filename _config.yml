@@ -1,10 +1,10 @@
 # Configs
 
-title: "Jekyll Profile"
+title: "Mahsa Profile"
 name: "A Free Job Market Profile in Jekyll"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
+url: "https://mahsamasoudi.github.io"
+baseurl: "/mahsa-for-Job-Market"
 repository: "ECON-691/Jekyll-for-Job-Market"
 header:
   image: /assets/images/banner-husky.jpg
